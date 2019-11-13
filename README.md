@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/roquette-test/Lab-AzurePipeline-GitHub/_apis/build/status/olivlum.pipelines-java?branchName=master)](https://dev.azure.com/roquette-test/Lab-AzurePipeline-GitHub/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
